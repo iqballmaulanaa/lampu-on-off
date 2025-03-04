@@ -17,4 +17,14 @@ body {
   font-size: 16px;
   margin: 10px;
   cursor: pointer;
+  border: none;
+  color: white;
+}
+
+.btn-hijau {
+  background-color: green;
+}
+
+.btn-merah {
+  background-color: red;
 }
